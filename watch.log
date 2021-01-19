@@ -1,0 +1,24 @@
+2021-01-19 21:55:41,946 - __main__ - INFO - �ļ��������� C:\\Users\\zhaop\\Downloads\1 - ����.txt
+2021-01-19 21:55:42,951 - __main__ - INFO - 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 21:55:42,951 - __main__ - INFO - 
+2021-01-19 21:55:42,952 - __main__ - INFO - �ļ����޸��� C:\\Users\\zhaop\\Downloads\1 - ����.txt
+2021-01-19 21:55:43,953 - __main__ - INFO - 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 21:55:43,953 - __main__ - INFO - 
+2021-01-19 21:58:26,126 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:98] - INFO: 文件被创建了 C:\\Users\\zhaop\\Downloads\1 - 副本 - 副本.txt
+2021-01-19 21:58:26,126 - WatchDog.py[line:98] - INFO: 文件被创建了 C:\\Users\\zhaop\\Downloads\1 - 副本 - 副本.txt
+2021-01-19 21:58:27,131 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:84] - INFO: 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 21:58:27,131 - WatchDog.py[line:84] - INFO: 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 21:58:27,131 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:85] - INFO: 
+2021-01-19 21:58:27,132 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:92] - INFO: 文件被修改了 C:\\Users\\zhaop\\Downloads\1 - 副本 - 副本.txt
+2021-01-19 21:58:27,132 - WatchDog.py[line:85] - INFO: 
+2021-01-19 21:58:27,132 - WatchDog.py[line:92] - INFO: 文件被修改了 C:\\Users\\zhaop\\Downloads\1 - 副本 - 副本.txt
+2021-01-19 21:58:28,135 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:84] - INFO: 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 21:58:28,135 - WatchDog.py[line:84] - INFO: 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 21:58:28,135 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:85] - INFO: 
+2021-01-19 21:58:28,135 - WatchDog.py[line:85] - INFO: 
+2021-01-19 22:24:56,514 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:92] - INFO: 文件被修改了 C:\\Users\\zhaop\\Downloads\desktop.ini
+2021-01-19 22:24:56,514 - WatchDog.py[line:92] - INFO: 文件被修改了 C:\\Users\\zhaop\\Downloads\desktop.ini
+2021-01-19 22:24:57,518 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:84] - INFO: 127.0.0.1 Could not reach clamd using network (127.0.0.1, 3310)
+2021-01-19 22:24:57,519 - C:/Users/zhaop/PycharmProjects/WatchDog/WatchDog.py[line:85] - INFO: 
+ork (127.0.0.1, 3310)
+2021-01-19 22:24:57,519 - WatchDog.py[line:85] - INFO: 
